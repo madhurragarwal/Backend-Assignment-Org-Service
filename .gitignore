@@ -1,0 +1,12 @@
+# Python setup
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Environment Variables (CRITICAL: Do not upload credentials)
+.env
+
+# IDE settings
+.vscode/
+.idea/
